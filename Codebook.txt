@@ -32,3 +32,6 @@ Activity -- the corresponding activity being performed
 [73] "fBodyBodyAccJerkMagMeanFreq"  "fBodyBodyGyroMagMean"         "fBodyBodyGyroMagStd"         
 [76] "fBodyBodyGyroMagMeanFreq"     "fBodyBodyGyroJerkMagMean"     "fBodyBodyGyroJerkMagStd"     
 [79] "fBodyBodyGyroJerkMagMeanFreq"
+
+Original data can be downloaded here
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
