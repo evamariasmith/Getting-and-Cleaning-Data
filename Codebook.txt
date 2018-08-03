@@ -1,9 +1,9 @@
-# MODIFIERS
+#MODIFIERS
 
 Subject - the ID of the subject
 Activity -- the corresponding activity being performed
 
-# MEASUREMENTS
+#MEASUREMENTS
 
 [1] "tBodyAccMeanX"                "tBodyAccMeanY"                "tBodyAccMeanZ"               
  [4] "tBodyAccStdX"                 "tBodyAccStdY"                 "tBodyAccStdZ"                
